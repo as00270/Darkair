@@ -1,0 +1,10 @@
+{ 
+   "shell-theme": {
+   "name": "Darkair-FAT", 
+   "author": "Serge Wagner aka as00270", 
+   "version": "3.9.5", 
+   "type":   "custom",
+   "thumbnail": "preview.jpg", 
+   "url": "http://gnome-look.org/content/show.php/Darkair+for+gnome-shell+3.6%2B3.8+%283.8.0%29?content=156215"
+    }
+}
